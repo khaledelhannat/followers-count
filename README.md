@@ -1,7 +1,7 @@
 # Followers Count
 Follower count animation that starts from zero and gradually increases.
 
-### Check out a live demo of the project [here](#).
+### Check out a live demo of the project [here](https://khaledelhannat.github.io/followers-count/).
 
 |               UI      | 
 | ----------------------------------- | 
